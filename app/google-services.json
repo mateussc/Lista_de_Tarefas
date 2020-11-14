@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955965107140",
+    "firebase_url": "https://todolist-3bec9.firebaseio.com",
+    "project_id": "todolist-3bec9",
+    "storage_bucket": "todolist-3bec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955965107140:android:169b598685246c30501291",
+        "android_client_info": {
+          "package_name": "br.usjt.ads20.listadetarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955965107140-5c3lc7qe7tkj0749d1b2u9emepn0cpch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IE4OxF6iUgqLwXR1UjJHbCA59_v8DXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955965107140-5c3lc7qe7tkj0749d1b2u9emepn0cpch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
